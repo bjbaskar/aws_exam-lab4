@@ -1,0 +1,1 @@
+[{"Note": "DynamoDB is NoSQL", "UserId": "student", "NoteId": 1}, {"Note": "A DynamoDB table is schemaless", "UserId": "student", "NoteId": 2}]
